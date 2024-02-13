@@ -13,7 +13,7 @@ Headshot picutre
 ## 4.How to Run the Program
 1. Create GitHub Account
 2. Pick a professional username like: _firstname_lastname_
-3. Add a professional headshot as a profil picture
+3. Add a professional headshot as a profile picture
 4. Edit Profile
   a. Add a name
   b. Add a bio
